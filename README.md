@@ -1,2 +1,2 @@
 # simple_shell
-coding shellcre
+Simple shell C project for the ALX program
